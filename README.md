@@ -17,7 +17,7 @@ Di bagian Header cari <!-- Ganti Nama UMKM Anda --> dan ganti nama UMKM Store me
 Pada Bagian Product List
 
 Masukkan nomor whatsapp anda / bisnis anda kedalam code ini:
-<a href="https://wa.me/62{nomor_anda}?text=Halo Admin saya ingin pesan produk ini." ></a
+`<a href="https://wa.me/62{nomor_anda}?text=Halo Admin saya ingin pesan produk ini." ></a>`
 
 //Hapus Kurung Kurawalnya dan masukkan nomor anda langsung
 
@@ -26,7 +26,7 @@ Masukkan nomor whatsapp anda / bisnis anda kedalam code ini:
 Pada Bagian Product List
 
 Copy dan Paste URL Gambar kalian ke dalam kode ini:
-<img src="https://images.unsplash.com/photo-1592921870789-04563d55041c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"/>
+`<img src="https://images.unsplash.com/photo-1592921870789-04563d55041c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"/>`
 
 // ganti url dalam petik dua
 
